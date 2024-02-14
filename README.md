@@ -22,7 +22,9 @@ The project involved the implementation of linked lists from scratch to demonstr
 
 The login/register screen interacted with local directories on the laptop to save and retrieve data. Upon login, the program instantiated a tree of linked lists based on the local data. 
 
-When a user logged in, the program determined whether they were a professor or a student and opened the corresponding panel. Professors had the ability to select majors and courses to teach, while students could choose their majors and enroll in relevant courses.
+When an user logged in, the program determined whether they were a professor or a student and opened the corresponding panel. Professors had the ability to select majors and courses to teach, while students could choose their majors and enroll in relevant courses.
+
+Professors could see students which are currently enrolled in their course and also their information connected to that particular course. Students, on the other hand, could se information about their course and all the professors teaching that course.
 
 It's worth noting that, at the time of development, I did not utilize any version control system. The project was managed through local saves, which, coupled with the use of Google Drive and multiple PCs, led to some data loss.
 
